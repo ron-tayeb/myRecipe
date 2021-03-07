@@ -1,0 +1,13 @@
+
+
+
+name:המבורגר
+calories:1500
+preparation time:80
+Ingredients:
+אנטריקוט
+חזה אווז
+כבד אווז
+עגבניה
+Difficulty:hard
+
