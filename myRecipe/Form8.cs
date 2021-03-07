@@ -86,7 +86,8 @@ namespace myRecipe
 
         private void tbpass_TextChanged(object sender, EventArgs e)
         {
-
+            tbpass.PasswordChar = '*';
+            tbpass.MaxLength = 14;
         }
 
         private void tbuser_TextChanged(object sender, EventArgs e)
